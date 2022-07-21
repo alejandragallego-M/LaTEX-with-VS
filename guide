@@ -1,21 +1,23 @@
 
 You need to install:
 
-I think I am editing
+1.Visual Studio Code: https://visualstudio.microsoft.com/
 
-Visual Studio Code 
+2.MiKTeX: https://miktex.org/download 
+  Precautions: During the installation select the followings options for prevent
+  later conflicts.
+  
+  1.Install MikTeX for anyone who uses this computer (all users)
+  2.Install MiKTeX to: Installation path by default
+  3.Preferred paper: Letter 
+    Install missing packages on-the-fly: Yes
+  4.Start installation
+  5.Selection: Check for updates now
+  6.Finish 
+   
+3.Strawberry Perl: https://strawberryperl.com/ 
 
-https://visualstudio.microsoft.com/
-
-MiKTeX
-
-https://miktex.org/download 
-
-Strawberry Perl 
-
-https://strawberryperl.com/ 
-
-In Visual Studio Code install the followings extensions:
+4.In Visual Studio Code install the followings extensions:
 - LaTex
 - LaTex Workshop
 - LaTex Language Support
